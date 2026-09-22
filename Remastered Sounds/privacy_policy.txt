@@ -1,0 +1,91 @@
+Privacy Policy — Remastered Sounds
+
+Effective Date: September 21, 2026, 5:26 PM
+Operator: Safeswing ("we," "us," "our")
+Website: Remastered Sounds
+Contact: safe22195@gmail.com, safe22184@gmail.com, safe22183@gmail.com
+
+1. Overview
+
+Remastered Sounds is a browser-based music listening website. This Privacy Policy explains what information we handle when you use the site.
+
+In short: Most of what the site saves stays on your device using localStorage. The only thing we collect on our side is a device identifier, used strictly for security and abuse prevention (such as blocking bots, scrapers, and users who violate our rules). We do not sell or share your data.
+
+2. Information We Collect
+
+We collect a device identifier (and, where technically necessary to deliver the site and prevent abuse, associated technical data such as an IP address). This is used only to:
+
+· Detect and block bots, scrapers, and automated abuse;
+· Detect and block hotlinking, mass-downloading, and screen-recording abuse;
+· Enforce bans on users who violate our Terms of Service or Acceptable Use Policy.
+
+We do not collect:
+
+· Names, emails, or contact details;
+· Account information (there are no accounts);
+· Location data;
+· Browsing or listening history;
+· Advertising or tracking cookies;
+· Analytics or usage statistics;
+· Payment information (the site is free).
+
+3. How We Use It
+
+We use the device identifier solely for security and abuse prevention. We do not use it for advertising, profiling, analytics, or marketing, and we do not sell, rent, or share it with third parties except where required by law.
+
+4. How Long We Keep It
+
+We keep device identifiers only as long as necessary for the security purposes described above — typically for the duration of an active block or ban, or a limited period thereafter. When no longer needed, it is deleted.
+
+5. Local Storage
+
+The website also uses your browser's localStorage to save things like your settings, playlists, or notes. This data:
+
+· Stays only on your device;
+· Is not the device identifier we collect, and is never sent to us;
+· Can be cleared by you at any time through your browser settings;
+· May be lost if the website is updated, your browser clears storage, or you use private/incognito mode.
+
+We have no access to your localStorage and cannot recover it for you.
+
+6. Internet Access
+
+The website requires an internet connection to download and play music. When you load the site, your browser makes standard requests to our hosting provider, and technical data (such as your IP address) may be processed as part of delivering the site and preventing abuse.
+
+7. Third-Party Services
+
+We do not use third-party SDKs, analytics tools, advertising networks, or tracking services.
+
+Music files are sourced from third-party providers (including MP3 PM). Those providers may have their own privacy practices, which we do not control. We encourage you to review their policies.
+
+8. Children's Privacy
+
+The website is intended for users 13 years or older. We do not knowingly collect personal information from children under 13 beyond the device identifier used for abuse prevention. If you are under 13, do not use the site.
+
+9. International Users (GDPR / CCPA)
+
+The website is operated from Turkmenistan. We collect only the minimum device identifier necessary for security and abuse prevention. We do not process personal data for marketing, profiling, or advertising.
+
+If you access the site from a region with specific data protection laws (such as the EU, UK, or California), you do so on your own initiative. Because the only data we process is a device identifier used for security purposes, we handle it in a limited, minimal way. For any privacy request, contact us at the emails below.
+
+10. Data Security
+
+We take reasonable measures to protect the device identifier we hold. Any data stored in your browser (localStorage) is protected by your browser's own security, and you are responsible for your device's security.
+
+11. Data Deletion
+
+To remove locally stored data (settings, playlists, notes), clear your browser's site data or localStorage for Remastered Sounds. Note that this is permanent and cannot be undone.
+
+To request deletion of the device identifier we hold, contact us at the emails below. We will delete it unless we are required to keep it for an active security block or by law.
+
+12. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be announced through an on-site notice. Continued use of the site after changes means you accept the updated policy.
+
+13. Contact
+
+For questions or privacy requests:
+
+· safe22195@gmail.com
+· safe22184@gmail.com
+· safe22183@gmail.com
