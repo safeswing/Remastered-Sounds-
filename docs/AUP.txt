@@ -1,0 +1,71 @@
+Acceptable Use Policy — Remastered Sounds
+
+Effective Date: September 21, 2026, 5:26 PM
+Operator: Safeswing ("we," "us," "our")
+Website: Remastered Sounds
+Contact: safe22195@gmail.com, safe22184@gmail.com, safe22183@gmail.com
+
+1. Purpose
+
+This Acceptable Use Policy ("AUP") explains what you may not do when using Remastered Sounds (the "Site"). It is part of, and incorporated into, our Terms of Service. By using the Site, you agree to this AUP.
+
+2. Prohibited Conduct
+
+You agree not to do any of the following:
+
+a. Scraping and Automated Access
+
+· Scraping, crawling, harvesting, or extracting content, music files, links, metadata, or code from the Site;
+· Using bots, spiders, crawlers, scripts, or any automated tool to access or interact with the Site;
+· Using mass-download tools or any tool designed to download content in bulk;
+· Bypassing, disabling, or interfering with any captcha, rate limit, security measure, or access control.
+
+b. Hotlinking
+
+· Hotlinking, deep-linking, or embedding our music files, streams, or assets on another website, app, or service;
+· Using our bandwidth or servers to serve content to third parties.
+
+c. Screen Recording and Capture
+
+· Screen recording, capturing, ripping, or reproducing the Site's interface, content, or audio streams by any means;
+· Using any tool to extract audio, video, or visual content from the Site beyond normal personal listening.
+
+d. Redistribution
+
+· Redistributing, re-uploading, republishing, reselling, sublicensing, or sharing music, files, or content obtained from the Site;
+· Uploading content from the Site to any other platform, service, or file-sharing network;
+· Using the Site's content for any commercial purpose.
+
+e. Reverse Engineering
+
+· Reverse-engineering, decompiling, disassembling, or attempting to extract the source code of the Site;
+· Copying, modifying, or creating derivative works based on the Site or its code.
+
+f. Abuse and Interference
+
+· Attempting to gain unauthorized access to the Site, its servers, or any related systems;
+· Interfering with, disrupting, overloading, or impairing the Site's operation;
+· Using the Site for any unlawful purpose or in violation of any applicable law;
+· Infringing the intellectual property or other rights of any person or entity.
+
+3. Captcha and Verification
+
+We may, now or in the future, require a captcha or other verification as a condition of accessing the Site. You agree not to bypass, defeat, or automate around any such verification. Captcha may become mandatory for all users.
+
+4. Enforcement
+
+Because the Site has no user accounts, we enforce this AUP through device-level measures. If we reasonably believe you have violated this AUP, we may:
+
+· Block or ban your device from accessing the Site;
+· Restrict or deny access to any part of the Site;
+· Take any other action we consider necessary to protect the Site and its users.
+
+We collect a device identifier for this purpose, as described in our Privacy Policy. Bans may be temporary or permanent, at our discretion.
+
+5. Reporting Violations
+
+If you believe someone is violating this AUP, report it to:
+
+· safe22195@gmail.com
+· safe22184@gmail.com
+· safe22183@gmail.com
